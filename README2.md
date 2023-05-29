@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Revisão de OO e SQL
 
 ## conteúdo revisado
@@ -68,3 +69,7 @@ SELECT * FROM tb_order
 INNER JOIN tb_order_product ON tb_order.id = tb_order_product.order_id
 INNER JOIN tb_product ON tb_product.id = tb_order_product.product_id
 ```
+=======
+# jdbc-postgres-vanilla-software
+Consulta ao banco de dados postgres sem o uso do framework Spring
+>>>>>>> 4e31f58b174230bbd76b0f299d38b35985527cae
